@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-I'm Hammad Khan, a junior full-stack developer passionate about learning and building fast, impactful and beautiful modern web applications with MERN stack.<br><br>🌱 Currently learning and refining Mern-Stack skills<br>💻 Tech stack: React, BootStrap, Tailwind CSS, Express.js, MongoDB, Node.js,Git/GitHub,<br>🏢 Completed a 3‑month internship at TechTribe Islamabad, where I built multiple projects.<br>👯 Open to internships and job opportunities.<br>⚡ Always excited to learn and collaborate with fellow developers and contribute to impactful projects!
+I'm Hammad Khan, a junior full-stack developer passionate about learning and building fast, impactful and beautiful modern web applications.<br><br>🌱 Currently learning and refining Mern-Stack skills<br>💻 Tech stack: React, BootStrap, Tailwind CSS, Express.js, MongoDB, Node.js,Git/GitHub,<br>🏢 Completed a 3‑month internship at TechTribe Islamabad, where I built multiple projects.<br>👯 Open to internships and job opportunities.<br>⚡ Always excited to learn and collaborate with fellow developers and contribute to impactful projects!
 
 
 ## 🌐 Socials:
